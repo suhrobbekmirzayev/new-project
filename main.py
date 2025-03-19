@@ -4,3 +4,6 @@ def hi():
 
 def by():
  return 'good by git hub '
+
+def day():
+  return 'days'
