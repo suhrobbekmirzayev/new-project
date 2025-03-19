@@ -7,3 +7,6 @@ def by():
 
 def day():
   return 'days'
+
+def hello(args):
+ return 'hello'
