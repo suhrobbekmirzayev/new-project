@@ -8,5 +8,5 @@ def by():
 def day():
   return 'days'
 
-def hello(args):
+def hello():
  return 'hello'
